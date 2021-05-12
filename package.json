@@ -21,7 +21,7 @@
     "@angular/router": "~8.1.1",
     "bootstrap": "^4.3.1",
     "canvasjs": "github:vasilrimar/canvasjs",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "d3": "^5.4.0",
     "jquery": "^3.4.1",
     "jqwidgets-ng": "^8.1.4",
