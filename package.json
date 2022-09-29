@@ -22,7 +22,7 @@
     "bootstrap": "^4.3.1",
     "canvasjs": "github:vasilrimar/canvasjs",
     "chart.js": "^2.8.0",
-    "d3": "^5.4.0",
+    "d3": "^7.6.1",
     "jquery": "^3.4.1",
     "jqwidgets-ng": "^8.1.4",
     "load-json-file": "^6.2.0",
